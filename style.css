@@ -169,7 +169,7 @@ button {
   .hero {
     display: flex;
     flex-direction: column-reverse;
-    gap: 9rem;
+    gap: 18rem;
     height: fit-content;
   }
   .hero .leftside,
@@ -186,7 +186,7 @@ button {
     padding: 15% 10%;
   }
   .hero .leftside h1 {
-    font-size: 42px;
+    font-size: 38px;
     text-align: center;
   }
   .hero .leftside p {
